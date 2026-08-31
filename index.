@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phú Dương Tuyển ngy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        main {
+            background: white;
+            padding: 20px;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Chào mừng đến với Trang Web của tôi</h1>
+    </header>
+
+    <main>
+        <h2>Giới thiệu</h2>
+        <p>Đây là một WEB giúp bạn có một người đzai.</p>
+        
+        <h3>Danh sách việc cần làm:</h3>
+        <ul>
+            <li>Học ăn</li>
+            <li>Học ngủ</li>
+            <li>Học đụp</li>
+        </ul>
+
+        <button onclick="alert('Xin chào!')">Bấm vào đây</button>
+    </main>
+
+</body>
+</html>
